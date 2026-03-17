@@ -1,0 +1,4 @@
+{
+"text": "{{$json[\"Body\"]}}",
+"phone": "{{$json[\"From\"]}}"
+}
